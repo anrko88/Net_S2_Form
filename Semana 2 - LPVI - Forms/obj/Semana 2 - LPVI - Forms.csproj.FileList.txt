@@ -1,0 +1,20 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Semana_2___LPVI___Forms.Form1.resources
+obj\Debug\Semana_2___LPVI___Forms.Properties.Resources.resources
+obj\Debug\Semana 2 - LPVI - Forms.csproj.GenerateResource.Cache
+bin\Debug\Semana 2 - LPVI - Forms.exe
+bin\Debug\Semana 2 - LPVI - Forms.pdb
+obj\Debug\Semana 2 - LPVI - Forms.exe
+obj\Debug\Semana 2 - LPVI - Forms.pdb
+obj\Debug\Semana_2___LPVI___Forms.CLick.resources
+obj\Debug\Semana_2___LPVI___Forms.Aplicacion_01.resources
+obj\Debug\Semana_2___LPVI___Forms.Aplicacion_02.resources
+obj\Debug\Semana_2___LPVI___Forms.Form2.resources
+obj\Debug\Semana_2___LPVI___Forms.Form3.resources
+obj\Debug\Semana_2___LPVI___Forms.Form4.resources
+obj\Debug\Semana_2___LPVI___Forms.Form4_OwnedForm.resources
+obj\Debug\Semana_2___LPVI___Forms.Form5.resources
+obj\Debug\Semana_2___LPVI___Forms.Form6.resources
+obj\Debug\Semana_2___LPVI___Forms.Form7.resources
+obj\Debug\Semana_2___LPVI___Forms.Form8.resources
+obj\Debug\Semana_2___LPVI___Forms.Aplicacion_03.resources
